@@ -53,4 +53,6 @@ Array (
 				[price_id] => Array ( [0] => 166 ) 
 				[qty] => Array ( [0] => 1 ) 
 				[day] => 4 ) )';
+				
 ?>
+ini contoh toh
